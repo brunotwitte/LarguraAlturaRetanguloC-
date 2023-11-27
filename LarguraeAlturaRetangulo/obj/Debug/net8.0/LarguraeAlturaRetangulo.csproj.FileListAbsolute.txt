@@ -1,0 +1,14 @@
+C:\Users\casa\source\repos\LarguraeAlturaRetangulo\LarguraeAlturaRetangulo\bin\Debug\net8.0\LarguraeAlturaRetangulo.exe
+C:\Users\casa\source\repos\LarguraeAlturaRetangulo\LarguraeAlturaRetangulo\bin\Debug\net8.0\LarguraeAlturaRetangulo.deps.json
+C:\Users\casa\source\repos\LarguraeAlturaRetangulo\LarguraeAlturaRetangulo\bin\Debug\net8.0\LarguraeAlturaRetangulo.runtimeconfig.json
+C:\Users\casa\source\repos\LarguraeAlturaRetangulo\LarguraeAlturaRetangulo\bin\Debug\net8.0\LarguraeAlturaRetangulo.dll
+C:\Users\casa\source\repos\LarguraeAlturaRetangulo\LarguraeAlturaRetangulo\bin\Debug\net8.0\LarguraeAlturaRetangulo.pdb
+C:\Users\casa\source\repos\LarguraeAlturaRetangulo\LarguraeAlturaRetangulo\obj\Debug\net8.0\LarguraeAlturaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casa\source\repos\LarguraeAlturaRetangulo\LarguraeAlturaRetangulo\obj\Debug\net8.0\LarguraeAlturaRetangulo.AssemblyInfoInputs.cache
+C:\Users\casa\source\repos\LarguraeAlturaRetangulo\LarguraeAlturaRetangulo\obj\Debug\net8.0\LarguraeAlturaRetangulo.AssemblyInfo.cs
+C:\Users\casa\source\repos\LarguraeAlturaRetangulo\LarguraeAlturaRetangulo\obj\Debug\net8.0\LarguraeAlturaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\casa\source\repos\LarguraeAlturaRetangulo\LarguraeAlturaRetangulo\obj\Debug\net8.0\LarguraeAlturaRetangulo.dll
+C:\Users\casa\source\repos\LarguraeAlturaRetangulo\LarguraeAlturaRetangulo\obj\Debug\net8.0\refint\LarguraeAlturaRetangulo.dll
+C:\Users\casa\source\repos\LarguraeAlturaRetangulo\LarguraeAlturaRetangulo\obj\Debug\net8.0\LarguraeAlturaRetangulo.pdb
+C:\Users\casa\source\repos\LarguraeAlturaRetangulo\LarguraeAlturaRetangulo\obj\Debug\net8.0\LarguraeAlturaRetangulo.genruntimeconfig.cache
+C:\Users\casa\source\repos\LarguraeAlturaRetangulo\LarguraeAlturaRetangulo\obj\Debug\net8.0\ref\LarguraeAlturaRetangulo.dll
